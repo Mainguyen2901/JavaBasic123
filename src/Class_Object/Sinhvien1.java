@@ -17,8 +17,5 @@ public class Sinhvien1 {
     public static void main(String[] args) {
         Sinhvien1 sv1=new Sinhvien1("Nguyễn Thị Mai",30);
         sv1.getInfor();
-
-        // Hàm khởi tạo có tham số
-
     }
 }
